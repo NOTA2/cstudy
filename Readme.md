@@ -20,6 +20,12 @@
 * [CodeUp](http://codeup.kr/JudgeOnline/problemset.php)
 * [백준온라인저지](https://www.acmicpc.net/)
 
+#### 과제검사
+* 월 - 스터디 숙제 검사(목요일 과제)
+* 화 - 스터디
+* 수 - 스터디 숙제 검사(주말 과제)
+* 목 - 스터디
+* 금 - 스터디 숙제 검사(화요일 과제)
 
 ***
 
